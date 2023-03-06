@@ -2,20 +2,3 @@ flet>=0.3.2
 pyinstaller>=5.7.0
 pillow>=9.4.0
 azure-cognitiveservices-speech==1.25.0
-PyAudioWPatch==0.2.12.5 # (WINDOWS ONLY)
-azure-cognitiveservices-speech==1.25.0
-beartype==0.12.0
-certifi==2022.12.7
-charset-normalizer==3.0.1
-flet==0.3.2
-idna==3.4
-oauthlib==3.2.2
-packaging==23.0
-repath==0.9.0
-requests==2.28.2
-six==1.16.0
-typing_extensions==4.5.0
-urllib3==1.26.14
-watchdog==2.2.1
-websocket-client==1.5.1
-wincertstore==0.2
